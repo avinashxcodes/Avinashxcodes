@@ -10,7 +10,7 @@
 
 ## 📫 Connect with me
 
-- LinkedIn:https://www.linkedin.com/in/avinash-yadav -cse1326
+- LinkedIn:https://www.linkedin.com/in/avinash-yadav-cse1326
 - Email: avinashxcodes@gmail.com
 
 ---
